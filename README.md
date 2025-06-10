@@ -37,7 +37,9 @@ The scale shown in the image refer to ratings based on how well the diamond's pr
 
 * * *
 
-![](file:///C:/Users/rodri/Downloads/GIA-Cut-Scale.png?msec=1749525599537)
+<p align="center">
+  <img src="./imgs/GIA-Cut-Scale.png" width="500";"/>
+</p>
 
 * * *
 
@@ -61,7 +63,10 @@ A labeled diagram of a diamond shows the following components:
 
 This chart helps jewelers and buyers assess whether a diamond has ideal proportions for maximizing brilliance and value.
 
-![](file:///C:/Users/rodri/Downloads/diamond-depth-table.png?msec=1749525599537 "Definition of appropriate percentages for Depth and Table values of a Diamond")
+
+<p align="center">
+  <img src="./imgs/diamond-depth-table.png" width="500";"/>
+</p>
 
 * * *
 
@@ -98,7 +103,9 @@ As seen above, the **Table** and **Depth** variables help determining the best c
 
 Use this guide to help determine the ideal depth proportions for a well-cut diamond.
 
-![](file:///C:/Users/rodri/Downloads/diamond-evaluation.png?msec=1749525599537)
+<p align="center">
+  <img src="./imgs/diamond-evaluation.png" width="400";"/>
+</p>
 
 * * *
 
