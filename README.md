@@ -113,7 +113,7 @@ Use this guide to help determine the ideal depth proportions for a well-cut diam
 A diamond's color has a significant impact on its appearance. With its many facets, a colorless diamond reflects light into a spectrum of hues, a characteristic often referred to as "fire". In a white diamond, the presence of a yellow tint will lower the price of a diamond. The less body color in a white diamond, the more true color it will reflect, and thus the greater its value.
 
 <p align="center">
-  <img src="./imgs/diamond-color-chart.jpg" width="400";"/>
+  <img src="./imgs/diamond-color-chart.jpg" width="800";"/>
 </p>
 
 ### Clarity Categories
@@ -130,7 +130,7 @@ A diamond's color has a significant impact on its appearance. With its many face
 | **I1** | Included 1: Inclusions that are visible to the naked eye and may be quite significant, impacting the appearance of the diamond | 
 
 <p align="center">
-  <img src="./imgs/diamond-clarity-chart.jpg" width="400";"/>
+  <img src="./imgs/diamond-clarity-chart.jpg" width="600";"/>
 </p>
 
 ### References
