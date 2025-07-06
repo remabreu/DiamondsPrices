@@ -140,3 +140,5 @@ A diamond's color has a significant impact on its appearance. With its many face
 2. https://www.gia.edu/diamond-quality-factor
 
 3. https://tremontijewellery.blogspot.com/2012/07/buying-diamonds-safely-why-we-wont-let.html
+   
+4. https://www.diamonds.pro/education/diamond-depth-and-table/
